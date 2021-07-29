@@ -8,7 +8,7 @@
 <img src = "https://user-images.githubusercontent.com/38847724/127315703-15176e0d-dbb7-4b4c-a5c6-508073f110a0.png" width="90%" height="90%">
 
 
-## 2. 그 중 Test MQTT Message Platform(Monitoring App) 파트
+## 2. 그 중 ②Test MQTT Message Platform(Monitoring App) 파트
 <img src = "https://user-images.githubusercontent.com/38847724/127519243-d3195a11-1aae-4bb6-8640-ff8c2fdbe78a.png" width="90%" height="90%">
 
 ## 3. 모니터링 항목
