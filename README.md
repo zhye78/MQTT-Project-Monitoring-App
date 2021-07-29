@@ -9,7 +9,7 @@
 
 
 ## 2. 그 중 Test MQTT Message Platform(Monitoring App) 파트
-<img src = "https://user-images.githubusercontent.com/38847724/127517950-50b5137b-efa8-426e-98c4-85903082c44f.png" width="90%" height="90%">
+<img src = "https://user-images.githubusercontent.com/38847724/127519243-d3195a11-1aae-4bb6-8640-ff8c2fdbe78a.png" width="90%" height="90%">
 
 ## 3. 모니터링 항목
 ### Target MQTT Message Server의 성능 정보
